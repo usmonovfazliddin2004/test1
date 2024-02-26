@@ -1,0 +1,36 @@
+<svg width="75.442825" height="75.442871" viewBox="0 0 75.4428 75.4429" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_5_54_dd" x="0.000000" y="0.000000" width="75.442825" height="75.442871" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="2.79418"/>
+			<feGaussianBlur stdDeviation="0.931393"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<clipPath id="clip5_69">
+			<rect id="users" width="48.898129" height="48.898129" transform="translate(13.771355 9.979126)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip5_56">
+			<rect id="shield" width="48.898129" height="48.898129" transform="translate(13.272392 10.478149)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g filter="url(#filter_5_54_dd)">
+		<rect id="Rectangle 16" x="2.794182" rx="20.956341" width="69.854469" height="69.854469" fill="#C4C4C4" fill-opacity="0.100000"/>
+		<rect id="shield" width="48.898129" height="48.898129" transform="translate(13.272392 10.478149)" fill="#FFFFFF" fill-opacity="0"/>
+		<g clip-path="url(#clip5_56)">
+			<rect id="users" width="48.898129" height="48.898129" transform="translate(13.771355 9.979126)" fill="#FFFFFF" fill-opacity="0"/>
+			<g clip-path="url(#clip5_69)">
+				<path id="Vector" d="M48.4075 52.7649L48.4075 48.6901C48.4075 46.5287 47.5489 44.4558 46.0205 42.9274C44.4922 41.399 42.4193 40.5404 40.2578 40.5404L23.9585 40.5404C21.797 40.5404 19.7241 41.399 18.1958 42.9274C16.6674 44.4558 15.8088 46.5287 15.8088 48.6901L15.8088 52.7649" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="2.993763" stroke-linejoin="round" stroke-linecap="round"/>
+				<path id="Vector" d="M32.1081 32.3907C27.6072 32.3907 23.9584 28.7421 23.9584 24.2411C23.9584 19.7401 27.6072 16.0914 32.1081 16.0914C36.6091 16.0914 40.2578 19.7401 40.2578 24.2411C40.2578 28.7421 36.6091 32.3907 32.1081 32.3907Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="2.993763" stroke-linejoin="round"/>
+				<path id="Vector" d="M60.632 52.765L60.632 48.6901C60.6307 46.8844 60.0297 45.1302 58.9234 43.7031C57.8171 42.276 56.2681 41.2567 54.5198 40.8053" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="2.993763" stroke-linejoin="round" stroke-linecap="round"/>
+				<path id="Vector" d="M46.3701 16.3563C48.1231 16.8052 49.6769 17.8247 50.7865 19.2542C51.8961 20.6836 52.4984 22.4418 52.4984 24.2513C52.4984 26.0609 51.8961 27.819 50.7865 29.2485C49.6769 30.678 48.1231 31.6975 46.3701 32.1464" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="2.993763" stroke-linejoin="round" stroke-linecap="round"/>
+			</g>
+		</g>
+	</g>
+</svg>

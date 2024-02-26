@@ -1,0 +1,24 @@
+<svg width="87.000000" height="43.000000" viewBox="0 0 87 43" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip9_123">
+			<rect id="twemoji:flag-nigeria" width="40.000000" height="40.000000" transform="translate(0.000000 1.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip9_127">
+			<rect id="chevron-down" width="24.000000" height="24.000000" transform="translate(50.000000 9.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="twemoji:flag-nigeria" width="40.000000" height="40.000000" transform="translate(0.000000 1.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip9_123)">
+		<path id="Vector" d="M4.44446 7.05566C3.26569 7.05566 2.13525 7.52393 1.30176 8.35742C0.468262 9.19092 0 10.3213 0 11.5L0 31.5C0 32.679 0.468262 33.8093 1.30176 34.6428C2.13525 35.4763 3.26569 35.9446 4.44446 35.9446L13.3333 35.9446L13.3333 7.05566L4.44446 7.05566Z" fill="#009A49" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M13.3333 7.05566L26.6666 7.05566L26.6666 35.9446L13.3333 35.9446L13.3333 7.05566Z" fill="#EEEEEE" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M35.5556 7.05566L26.6667 7.05566L26.6667 35.9446L35.5556 35.9446C36.7343 35.9446 37.8647 35.4763 38.6982 34.6428C39.5317 33.8093 40 32.679 40 31.5L40 11.5C40 10.3213 39.5317 9.19092 38.6982 8.35742C37.8647 7.52393 36.7343 7.05566 35.5556 7.05566Z" fill="#009A49" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+	<rect id="chevron-down" width="24.000000" height="24.000000" transform="translate(50.000000 9.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip9_127)">
+		<path id="Vector" d="M56 18.5L62 24.5L68 18.5" stroke="#000000" stroke-opacity="0.250000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+	<path id="Line 2" d="M85.5 1.5L85.5 41.5" stroke="#000000" stroke-opacity="0.100000" stroke-width="3.000000" stroke-linecap="round"/>
+</svg>
